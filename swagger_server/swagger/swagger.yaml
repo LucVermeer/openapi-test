@@ -111,9 +111,9 @@ components:
         last_name: last_name
         first_name: first_name
         gradeRecords:
-        - grade: 6.0274563
+        - grade: 6.1
           subject_name: subject_name
-        - grade: 6.0274563
+        - grade: 6.1
           subject_name: subject_name
     GradeRecord:
       required:
@@ -129,6 +129,6 @@ components:
           type: number
           format: float
       example:
-        grade: 6.0274563
         subject_name: subject_name
+        grade: 6.1
 
